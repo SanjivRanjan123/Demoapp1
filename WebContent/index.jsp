@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> my jsp page</h1>
+<h1> my jsp page.. commit 1 on master branch</h1>
 </body>
 </html>
