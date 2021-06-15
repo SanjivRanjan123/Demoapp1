@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Feature 1. Second Commit</h1>
+<h1>Feature 1. Third Commit</h1>
 </body>
 </html>
